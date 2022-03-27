@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "First Stream (Changed)",
+      "description": "This is a Test Stream",
+      "id": 1
+    },
+    {
+      "title": "Second Stream",
+      "description": "This is an another test stream",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Made using creating own history object!!",
+      "userId": "116697794469592806235",
+      "id": 3
+    },
+    {
+      "title": "Check for Put vs Patch",
+      "description": "Just checking for https request verbs \"Put\" and \"Patch\"",
+      "userId": "116697794469592806235",
+      "id": 4
+    },
+    {
+      "title": "Random Stream",
+      "description": "Just a Random Stream added in db.json!",
+      "id": 5
+    }
+  ]
+}
