@@ -6,11 +6,11 @@ A Streaming Application made using React and Redux . RTMP server is setup for ge
 ***npm start***
 
 #### To start the rtmp server  ####
-***cd rtmpserver/***
+***cd rtmpserver/***<br />
 ***npm start***
 
 #### To start the react application  ####
-***cd client/***
+***cd client/***<br />
 ***npm start***
 
 ### Home Page when user is logged in ###
