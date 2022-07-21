@@ -1,6 +1,18 @@
 # Streamyy #
 A Streaming Application made using React and Redux . RTMP server is setup for getting video feed and JSON server for listing out different streams 
 
+#### To start the json server  ####
+***cd api/***
+***npm start***
+
+#### To start the rtmp server  ####
+***cd rtmpserver/***
+***npm start***
+
+#### To start the react application  ####
+***cd client/***
+***npm start***
+
 ### Home Page when user is logged in ###
 ![Screenshot (282)](https://user-images.githubusercontent.com/87593435/180187436-a2cb577a-b341-40a0-9087-4f7604f45375.png)
 
