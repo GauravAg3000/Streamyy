@@ -2,7 +2,7 @@
 A Streaming Application made using React and Redux . RTMP server is setup for getting video feed and JSON server for listing out different streams 
 
 #### To start the json server  ####
-***cd api/***
+***cd api/***<br />
 ***npm start***
 
 #### To start the rtmp server  ####
