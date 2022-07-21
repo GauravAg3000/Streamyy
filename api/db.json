@@ -26,6 +26,12 @@
       "title": "Random Stream",
       "description": "Just a Random Stream added in db.json!",
       "id": 5
+    },
+    {
+      "title": "New Stream",
+      "description": "this is a new stream",
+      "userId": "116697794469592806235",
+      "id": 6
     }
   ]
 }
